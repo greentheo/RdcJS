@@ -1,0 +1,4 @@
+#! /usr/bin/Rscript
+
+
+source('speedDataPull.R')
